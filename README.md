@@ -10,11 +10,11 @@ The first 5 levels will be repeating the one of the 5 possible inputs so that th
 The rules are very simple. Repeat the displayed inputs in the least amount of time possible. 
 
 # Inputs and how they will be used:
--Left Button (Press)
--Right Button (Press)
--Slide Switch (Slide)
--Light Sensor (Cover)
--Accelerometer (Double-tap)
+#### -Left Button (Press)
+#### -Right Button (Press)
+#### -Slide Switch (Slide)
+#### -Light Sensor (Cover)
+#### -Accelerometer (Double-tap)
 
 # Outputs and how they will be used:
 Serial Print: Used to show required inputs, level, and score
