@@ -17,8 +17,8 @@ The rules are very simple. Repeat the displayed inputs in the least amount of ti
 #### -Accelerometer (Double-tap)
 
 # Outputs and how they will be used:
-Serial Print: Used to show required inputs, level, and score
-Green LED pattern: Plays to indicate user inputs match required inputs and level is passed
-Level Pass tone: Plays along with Green LED pattern indicating level is passed
-Red LED pattern: Plays to indicate user inputs do NOT match required inputs and level is failed
-Level Failed tone: Plays along with Red LED pattern indicating level is failed
+#### Serial Print: Used to show required inputs, level, and score
+#### Green LED pattern: Plays to indicate user inputs match required inputs and level is passed
+#### Level Pass tone: Plays along with Green LED pattern indicating level is passed
+#### Red LED pattern: Plays to indicate user inputs do NOT match required inputs and level is failed
+#### Level Failed tone: Plays along with Red LED pattern indicating level is failed
